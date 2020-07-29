@@ -69,3 +69,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Deskripsi 
+
+Website ini berfungsi untuk menangani penjualan dan pembelian KOPI, website ini menggunakan bahasa pemrograman PHP dengan memanfaatkan framework Boostrap dan Laravel.
+
+Dibuat oleh : Samuel Pangihutan Sihombing
